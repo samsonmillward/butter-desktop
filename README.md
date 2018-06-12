@@ -15,9 +15,9 @@ Visit the project's website at <http://butterproject.org>.
 
 ## Getting Involved
 
-Want to report a bug, request a feature, contribute to or translate Butter? 
+Want to report a bug, request a feature, contribute to or translate Butter?
 
-Check out our in-depth guide to [Contributing to Butter](CONTRIBUTING.md#contributing-to-butter). 
+Check out our in-depth guide to [Contributing to Butter](CONTRIBUTING.md#contributing-to-butter).
 
 We need all the help we can get! You can also join our [community](README.md#community) to keep up-to-date and meet other Butterrs.
 
@@ -95,3 +95,4 @@ If not, see http://www.gnu.org/licenses/
 
 Copyright (c) 2015 Butter Project - Released under the
 [GPL v3 license](LICENSE.txt).
+Test Update
